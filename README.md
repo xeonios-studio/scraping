@@ -6,7 +6,7 @@ Diese Anwendung ermöglicht das Hinzufügen, Anzeigen und regelmäßige Aktualis
 
 - **Produkt hinzufügen**: Produkte können manuell hinzugefügt werden, indem die URL, der Titel und der aktuelle Preis eingegeben werden.
 - **Preisüberwachung**: Die Anwendung überprüft regelmäßig (alle 15 Sekunden) die aktuellen Preise der hinzugefügten Produkte von verschiedenen Online-Shops und zeigt Preisänderungen an.
-- 
+
 - **Unterstützte Shops**:
   - **Amazon**
   - **eBay**
@@ -24,3 +24,7 @@ Diese Anwendung ermöglicht das Hinzufügen, Anzeigen und regelmäßige Aktualis
 
    ```bash
    git clone https://github.com/xeonios-studio/preisueberwachung.git
+   
+3. Release
+
+Du kannst die neueste Version der App direkt als [Release](https://github.com/xeonios-studio/preisueberwachung/releases/) herunterladen.
