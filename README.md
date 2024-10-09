@@ -23,7 +23,7 @@ Diese Anwendung ermöglicht das Hinzufügen, Anzeigen und regelmäßige Aktualis
 2. Klone dieses Repository:
 
    ```bash
-   git clone https://github.com/xeonios-studio/preisueberwachung.git
+   git clone https://github.com/xeonios-studio/scraping.git
    
 3. Release:
 
