@@ -25,6 +25,6 @@ Diese Anwendung ermöglicht das Hinzufügen, Anzeigen und regelmäßige Aktualis
    ```bash
    git clone https://github.com/xeonios-studio/preisueberwachung.git
    
-3. Release
+3. Release:
 
 Du kannst die neueste Version der App direkt  [Release](https://github.com/xeonios-studio/scraping/releases/) herunterladen.
