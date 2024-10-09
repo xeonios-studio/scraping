@@ -27,4 +27,4 @@ Diese Anwendung ermöglicht das Hinzufügen, Anzeigen und regelmäßige Aktualis
    
 3. Release
 
-Du kannst die neueste Version der App direkt als [Release]([https://https://github.com/xeonios-studio/scraping/releases) herunterladen.
+Du kannst die neueste Version der App direkt  [Release](https://github.com/xeonios-studio/scraping/release/) herunterladen.
