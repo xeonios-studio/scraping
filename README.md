@@ -13,6 +13,7 @@ Diese Anwendung ermöglicht das Hinzufügen, Anzeigen und regelmäßige Aktualis
   - **Otto.de**
 
 - **JSON-basierte Speicherung**: Alle Produktdaten werden in der `produkte.json` Datei gespeichert.
+- **JSON-basierte Speicherung**: App-Version wird in der `version.json` Datei gespeichert.
 - **Automatische Preisaktualisierung**: Änderungen am Preis werden in der Anwendung angezeigt, und die Preisfarbe wird abhängig von der Preiserhöhung oder -senkung entsprechend markiert.
 
 ## Installation
